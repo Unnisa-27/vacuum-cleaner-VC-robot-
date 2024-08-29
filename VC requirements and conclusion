@@ -1,0 +1,16 @@
+Software Requirements:
+• Operating Systems: Windows 10 & Above Operating system
+• Software used: Arduino 2.0 Software
+• Coding Language: C
+Hardware Requirements:
+• Arduino Uno : Arduino uno is Microcontroller with ATMega238p that performs the given task.
+• L298D Motor Driver Sheild:L293D is a monolithic integrated, high voltage, high current, 4-channel driver.
+• HC-SR04 Ultrasonic Sensor :An Ultrasonic sensor is a device that can measure the distance to an object by using sound waves.
+• SG-90 Servo Motor: A servo motor is an electrical device which can push or rotate an object with great precision.
+• DC Motor:- A Direct Current (DC) motor is a rotating electrical device that converts direct current, of electrical energy, into mechanical energy.
+• DC Gear Motor:-The most common electrical motors convert electrical energy to mechanical energy. A gear motor is an all-in-one combination of a motor and gearbox.
+
+conclusion:
+In this project Smart Vacuum Cleaner has been implemented. It was works on a pre-defined code inserted in Arduino UNO. Whenever RC car encounters any obstacle, it turns to the side where the
+distance between obstacle and car is more. This project helps collect the dust using a vacuum cleaner made using CPU fan and batteries without human intervention thereby reducing the hazards to
+human health. This is a simple and cost-effective cleaner. However, using a detachable bag may be better as removing the dust becomes simpler.
